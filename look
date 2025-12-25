@@ -1,0 +1,164 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E012-6DCE
+
+ Directory of C:\Users\chast\Desktop\liv
+
+12/25/2025  12:28 PM    <DIR>          .
+12/25/2025  12:23 PM    <DIR>          ..
+12/25/2025  12:24 PM             4,895 .gitignore
+12/25/2025  12:24 PM             1,100 LICENSE
+12/25/2025  12:28 PM                 0 look
+12/25/2025  12:24 PM    <DIR>          prompts
+12/25/2025  12:24 PM                25 README.md
+               4 File(s)          6,020 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git
+
+12/25/2025  12:28 PM    <DIR>          ..
+12/25/2025  12:24 PM               331 config
+12/25/2025  12:23 PM                73 description
+12/25/2025  12:24 PM                21 HEAD
+12/25/2025  12:23 PM    <DIR>          hooks
+12/25/2025  12:24 PM               453 index
+12/25/2025  12:23 PM    <DIR>          info
+12/25/2025  12:24 PM    <DIR>          logs
+12/25/2025  12:23 PM    <DIR>          objects
+12/25/2025  12:24 PM               112 packed-refs
+12/25/2025  12:24 PM    <DIR>          refs
+               5 File(s)            990 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\hooks
+
+12/25/2025  12:23 PM    <DIR>          .
+12/25/2025  12:23 PM               478 applypatch-msg.sample
+12/25/2025  12:23 PM               896 commit-msg.sample
+12/25/2025  12:23 PM             4,726 fsmonitor-watchman.sample
+12/25/2025  12:23 PM               189 post-update.sample
+12/25/2025  12:23 PM               424 pre-applypatch.sample
+12/25/2025  12:23 PM             1,649 pre-commit.sample
+12/25/2025  12:23 PM               416 pre-merge-commit.sample
+12/25/2025  12:23 PM             1,374 pre-push.sample
+12/25/2025  12:23 PM             4,898 pre-rebase.sample
+12/25/2025  12:23 PM               544 pre-receive.sample
+12/25/2025  12:23 PM             1,492 prepare-commit-msg.sample
+12/25/2025  12:23 PM             2,783 push-to-checkout.sample
+12/25/2025  12:23 PM             2,308 sendemail-validate.sample
+12/25/2025  12:23 PM             3,650 update.sample
+              14 File(s)         25,827 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\info
+
+12/25/2025  12:23 PM    <DIR>          .
+12/25/2025  12:23 PM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\logs
+
+12/25/2025  12:24 PM    <DIR>          .
+12/25/2025  12:24 PM               191 HEAD
+12/25/2025  12:24 PM    <DIR>          refs
+               1 File(s)            191 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\logs\refs
+
+12/25/2025  12:24 PM    <DIR>          .
+12/25/2025  12:24 PM    <DIR>          ..
+12/25/2025  12:24 PM    <DIR>          heads
+12/25/2025  12:24 PM    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\logs\refs\heads
+
+12/25/2025  12:24 PM    <DIR>          .
+12/25/2025  12:24 PM    <DIR>          ..
+12/25/2025  12:24 PM               191 main
+               1 File(s)            191 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\logs\refs\remotes
+
+12/25/2025  12:24 PM    <DIR>          .
+12/25/2025  12:24 PM    <DIR>          ..
+12/25/2025  12:24 PM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\logs\refs\remotes\origin
+
+12/25/2025  12:24 PM    <DIR>          .
+12/25/2025  12:24 PM    <DIR>          ..
+12/25/2025  12:24 PM               191 HEAD
+               1 File(s)            191 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\objects
+
+12/25/2025  12:23 PM    <DIR>          .
+12/25/2025  12:23 PM    <DIR>          info
+12/25/2025  12:24 PM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\objects\info
+
+12/25/2025  12:23 PM    <DIR>          .
+12/25/2025  12:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\objects\pack
+
+12/25/2025  12:24 PM    <DIR>          .
+12/25/2025  12:23 PM    <DIR>          ..
+12/25/2025  12:24 PM             1,352 pack-d0da6b8e101527e52233d611e7ce24c9b3b5560c.idx
+12/25/2025  12:24 PM             6,239 pack-d0da6b8e101527e52233d611e7ce24c9b3b5560c.pack
+12/25/2025  12:24 PM                92 pack-d0da6b8e101527e52233d611e7ce24c9b3b5560c.rev
+               3 File(s)          7,683 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\refs
+
+12/25/2025  12:24 PM    <DIR>          .
+12/25/2025  12:24 PM    <DIR>          heads
+12/25/2025  12:24 PM    <DIR>          remotes
+12/25/2025  12:24 PM    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\refs\heads
+
+12/25/2025  12:24 PM    <DIR>          .
+12/25/2025  12:24 PM    <DIR>          ..
+12/25/2025  12:24 PM                41 main
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\refs\remotes
+
+12/25/2025  12:24 PM    <DIR>          .
+12/25/2025  12:24 PM    <DIR>          ..
+12/25/2025  12:26 PM    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\refs\remotes\origin
+
+12/25/2025  12:26 PM    <DIR>          .
+12/25/2025  12:24 PM    <DIR>          ..
+12/25/2025  12:24 PM                30 HEAD
+               1 File(s)             30 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\.git\refs\tags
+
+12/25/2025  12:24 PM    <DIR>          .
+12/25/2025  12:24 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\prompts
+
+12/25/2025  12:24 PM    <DIR>          .
+12/25/2025  12:28 PM    <DIR>          ..
+12/25/2025  12:24 PM    <DIR>          liv
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\chast\Desktop\liv\prompts\liv
+
+12/25/2025  12:24 PM    <DIR>          .
+12/25/2025  12:24 PM    <DIR>          ..
+12/25/2025  12:24 PM             2,736 v4.76-final-lean-merge.yaml
+               1 File(s)          2,736 bytes
+
+     Total Files Listed:
+              33 File(s)         44,140 bytes
+              49 Dir(s)  226,340,900,864 bytes free
