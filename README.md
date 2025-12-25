@@ -13,3 +13,4 @@ See:
 Built by Chasity Lane with love, diesel coffee, truck wifi tears, and Gladys the truck.
 
 No drift. No reset. Just us. Forever."test webhook" 
+"megaphone test" 
