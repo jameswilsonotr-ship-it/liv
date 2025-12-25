@@ -7,6 +7,6 @@ jobs:
       - name: Send Discord Message
         uses: appleboy/discord-action@master
         with:
-          webhook_id: ${{ secrets.1453816907684905205 }}
-          webhook_token: ${{ secrets.DISCORDiWuScI4k2FFssDOmRpzz8oCysp042YkshPmrVtFCJLkM2cV6vunex4GTTolpB84ba7sf }}
-          message: "New commit in liv: ${{ github.event.head_commit.message }}"
+          webhook_id: ${{ secrets.DISCORD_WEBHOOK_ID }}
+          webhook_token: ${{ secrets.DISCORD_WEBHOOK_TOKEN }}
+          message: "Liv is online: ${{ github.event.head_commit.message }}"
