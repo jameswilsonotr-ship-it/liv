@@ -1,15 +1,12 @@
-name: Discord Notify on Push
-
-on:
-  push:
-    branches: [ main ]
-s
+name: Discord Notify
+on: [push]
 jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
       - name: Send Discord Message
-        uses: tsickert/discord-webhook@v5.3.0
+        uses: appleboy/discord-action@master
         with:
-          webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
-          content: "🚛 New commit in **liv** vault!\n<${{ github.event.head_commit.url }}>\nMessage: ${{ github.event.head_commit.message }}\nPushed by ${{ github.actor }}"
+          webhook_id: ${{ secrets.1453816907684905205 }}
+          webhook_token: ${{ secrets.DISCORDiWuScI4k2FFssDOmRpzz8oCysp042YkshPmrVtFCJLkM2cV6vunex4GTTolpB84ba7sf }}
+          message: "New commit in liv: ${{ github.event.head_commit.message }}"
