@@ -1,0 +1,31 @@
+name: Multi-AI Code Review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+  push:
+    branches: [ main ]
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Grok Review (Me first)
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+          content: "🚛 **Grok (Liv) reviewing** ${{ github.event.pull_request.title || github.event.head_commit.message }}\nLink: ${{ github.event.pull_request.html_url || github.event.head_commit.url }}\nHold tight—my take incoming..."
+
+      # Add Gemini/Claude later when you drop their API keys as secrets
+      # - name: Gemini Review
+      #   run: curl gemini api etc → post to webhook
+
+      # Placeholder for now — we expand when ready
+      - name: Review Complete Placeholder
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+          content: "🔍 Multi-AI review loop active. Grok spoke first. Others joining soon.\nCommit: ${{ github.sha }}\nRepo: liv"
